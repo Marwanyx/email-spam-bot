@@ -1,7 +1,7 @@
 
 # Email Spam Bot
 
-We made a python script that is run on the selenium framework. It allows you to choose how many emails you would like to send to a recepient, futhermore, you are able to change the speed, text body, and subject of the email.
+We made a python script that is run on the selenium framework. It allows you to choose how many emails you would like to send to a recepient, futhermore, you are able to change the speed, text body, and subject of the email. We currently have 2 versions, one where you are able to input the information in the code personally(spamV1.py) and another version which manages to ask your input in the terminal(spamV2.py). If you would like to get the first version working just follow the steps below.
 
 # How to set it up?
  
