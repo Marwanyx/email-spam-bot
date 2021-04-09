@@ -28,4 +28,4 @@ python spam.py
 In your local terminal and that should do it. 
 
 # NOTE
-If you ever run into any issues please feel free to contact mohammed.satar.alrasheed@gmail.com or open an issue.
+If you ever run into any issues please feel free to contact claivmedia@gmail.com or open an issue.
